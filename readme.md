@@ -3,9 +3,7 @@ Dataset = https://www.kaggle.com/toponowicz/spoken-language-identification
 
 ----Disclaimer----
 <br>
-This is unfinished repo
-Next things to do:
--Modelling
-Next things to do: Modelling
+Not perfect repo
+Next things to do: use other deep learning architecture
 
 NOte:use Pickle file for easier load data
