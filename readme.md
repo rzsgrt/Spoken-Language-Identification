@@ -1,11 +1,12 @@
 Spoken Language Identification
-_
+-
 
 Dataset = https://www.kaggle.com/toponowicz/spoken-language-identification
 
-----Disclaimer----
 <br>
-Next things to do: use other deep learning architecture
+Next things to do:
+*use other deep learning architecture
+*add more processing (remove dead freq)
 
 Note:use Pickle file for easier load data
 
